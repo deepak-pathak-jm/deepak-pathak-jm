@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Deepak Pathak</h1>
-<h4>WordPress Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
+<h1 align="center" style="color:white;">Hi 👋, I'm Deepak Pathak</h1>
+<h4 style="color:white;">WordPress Developer from India on a journey to become a master of all trades by learning something new everyday.</h4>
 
 - 🌱 I’m currently learning **Php & Laravel**
 
